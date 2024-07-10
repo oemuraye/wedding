@@ -1922,6 +1922,10 @@ textarea.form-control {
   text-transform: uppercase;
   font-family: "Libre Caslon Text", serif; }
 
+.ftco-about .subheading_sm {
+  font-size: 11px;
+}
+
 .ftco-about h2 {
   font-size: 64px;
   color: #f67e7d;
@@ -2156,6 +2160,12 @@ textarea.form-control {
       letter-spacing: 1px;
       border: 1px solid #fddddc;
       padding: 8px 10px; }
+      .place .subText {
+        font-size: 20px;
+      }
+       .venue {
+        justify-content: space-around; 
+       }
 
 .rsvp-form {
   padding: 70px 50px 50px 50px;
