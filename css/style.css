@@ -1748,6 +1748,10 @@ h5,
         background: #f67e7d; }
 
 .video-hero {
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat-x;
   position: relative; }
   .video-hero .overlay {
     position: absolute;
@@ -1756,7 +1760,7 @@ h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .3;
+    opacity: .4;
     background: #000000; }
   .video-hero .text {
     width: 100%; }
